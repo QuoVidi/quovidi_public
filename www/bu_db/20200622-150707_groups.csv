@@ -1,0 +1,4 @@
+id,name,n_animals,n_plants,n_zones,penality_animals,penality_plants,penality_zones,n_quests,total_quests,total_points_th,total_points,total_points_act,n_errors,total_points_tp,n_corrections,n_corrections_pass,total_points_corrections
+0,the_masters,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,pokemon,1,0,1,0,0,0,1,1,10,10,10,0,0,0,0,0
+2,english,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

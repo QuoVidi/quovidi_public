@@ -1,0 +1,83 @@
+id,lang,item
+submit_title,en,Submit
+submit_title,fr,Soumettre
+file_label,en,Needs to be a jpg file
+file_label,fr,Le fichier doit être en .jpg
+submit_quest_label,en,Choose quest
+submit_quest_label,fr,Choisir une quête
+submit_zone_label,en,Choose zone
+submit_zone_label,fr,Choisir une zone
+image_label,en,Your image
+image_label,fr,Votre image
+submit_label,en,Submit your image
+submit_label,fr,Soumettre l'image
+bounty_title,en,Bounties
+bounty_title,fr,Trouvailles
+show_all_group_label,en,Show all groups
+show_all_group_label,fr,Montrer tous les groupes
+quest_title,en,Quests
+quest_title,fr,Quêtes
+show_zones_label,en,Show map of zones
+show_zones_label,fr,Montrer la carte des zones
+download_quests_label,en,Download the list of quests
+download_quests_label,fr,Télécharger la liste des quêtes
+help_submit,en,"When you submit a picture, it means you are formaly sending this picture for evaluation, adding it to your active bounty. This action cannot be undone"
+help_submit,fr,"Quand vous soumettez une image, cela signifie que vous l'envoyer pour validation. Cette action ne peut être annulée."
+help_bounty,en,Here you can see all your bounties as well as their current evaluation status. You can also see here the ranking of all the groups.
+help_bounty,fr,"Vous pouvez visionner ici toutes vos trouvailles, ainsi que leur status d'évaluation. Vous pouvez aussi visonner le classement de tout les groupes"
+language_selection,en,Choose your language
+language_selection,fr,Choisir votre langue
+rules_button,en,Rules
+rules_button,fr,Règles
+task_button,en,Tasks
+task_button,fr,Tâches
+wrong_username,en,Wrong username or password. Try again
+wrong_username,fr,Nom d'utilisateur ou mot de passe incorrect. Réessayez.
+username,en,Username
+username,fr,Nom d'utilisateur
+password,en,Password
+password,fr,Mot de passe
+first_log,en,This is the first you log into the system. You need to change your password
+first_log,fr,C'est la première fois que vous vous identifiez. Vous devez changez votre mot de passe.
+new_password,en,New Password
+new_password,fr,Nouveau mot de passe
+noma_incorrect,en,Incorrect NOMA
+noma_incorrect,fr,NOMA incorrect
+password_changed,en,Password name changed succefully
+password_changed,fr,Mot de passe changé avec succes
+change_group,en,Change group name
+change_group,fr,Changer le nom du groupe
+dismiss,en,Dismiss
+dismiss,fr,Fermer
+task_message,en,"Hello <b>rep1</b>, here is your task list for the game:</br></br><ul><li><b>bounties</b> still allowed: <b>rep2</b></li></ul></br><b> Points </b></br></br><ul><li><b>Theoretical points : </b>rep3</li><li><b>Actual points : </b>rep4</li></ul>"
+task_message,fr,"Bonjour <b>rep1</b>, voici votre liste de tâche pour le jeu:</br></br><ul><li><b>trouvailles</b> encore autorisées: <b>rep2</b></li></ul></br><b> Points </b></br></br><ul><li><b> Points théoriques: </b>rep3</li><li><b>Points réels: </b>rep4</li></ul>"
+team_progress,en,Progress of team
+team_progress,fr,Progrès de l'équipe
+new_group_name,en,New group name
+new_group_name,fr,Nouveau nom de groupe
+name_taken_title,en,Group name already taken
+name_taken_title,fr,Nom de groupe déjà utilisé
+name_taken_text,en,Sorry this group name already exist. Please choose an other one.
+name_taken_text,fr,Désolé ce nom de groupe existe déjà. Veuillez en choisir un autre
+name_change,en,Group name changed succefully
+name_change,fr,Nom de groupe modifié
+error_image,en,Error with image
+error_image,fr,Erreur avec l'image
+error_image_text,en,"Image could not be openned. Please check that it is a .jpg images. .jpeg, .JPG and .JPEG might result in errors."
+error_image_text,fr,"L'image n'a pas pu être ouverte. Vérifiez que le format est bien .jpg. .jpeg, .JPG et .JPEG peuvent provoquer une erreur"
+bounty_submitted,en,Bounty submitted
+bounty_submitted,fr,Trouvaille soumise
+bounty_already_title,en,Bounty already submitted
+bounty_already_title,fr,Trouvaille déjà soumise
+bounty_already_text,en,You already submitted a bounty for this quest. Please select an other quest.
+bounty_already_text,fr,Vous avez déjà soumis une trouvaille pour cette quête. Veuillez selectionner une autre quête
+no_more_quests_title,en,No more quests allowed
+no_more_quests_title,fr,Plus de dépot autorisé
+no_more_quests_text,en,You have reach the maximum number of quests allowed. Congratulations!
+no_more_quests_text,fr,Vous avez atteint le nombre maximal de dépots autorisé. Félicitation!
+group_points,en,"Your group has submitted <b>rep2</b> bounties, for a total of <b>rep3</b> theoretical points.</br>Your group has <b>rep4</b> validated bounties, for a total of <b>rep5</b> actual points.</br><hr>"
+group_points,fr,"Votre group a soumis <b>rep2</b> trouvailles, pour un total de <b>rep3</b> points théoriques.</br>Votre groupe a <b>rep4</b> trouvailles validées, pour un total de <b>rep5</b> points réels.</br><hr>"
+NA,en,NA
+NA,fr,NA
+not_submitted, en, "Not yet submitted"
+not_submitted, fr, "Pas encore soumise"

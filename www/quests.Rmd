@@ -1,0 +1,31 @@
+---
+title: "Quêtes BioGO"
+author: "LBIR1151"
+date: "2020-02-09"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+#library(knitr)
+library(pander)
+library(RSQLite)
+library(tidyverse)
+
+# knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Liste de quêtes
+
+Ci-dessous vous trouverez la liste complête des quêtes du TP BioGO 2020. 
+
+La liste est aussi consultable sur l'interface graphique de BioGO:
+
+[https://2020.biogo.xyz](https://2020.biogo.xyz)
+
+```{r oneshot_install, echo=F}
+
+con <- dbConnect(RSQLite::SQLite(), "database.sql")
+quests <- dbGetQuery(con, "SELECT * FROM quests") %>% 
+  select(name, points, difficulty)
+pandoc.table(quests)
+```
